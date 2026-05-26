@@ -6,16 +6,27 @@ DESIGN.md is a plain-text design system file that helps tools like Cursor, Claud
 
 Maintained by [Dima Braven](https://dimabraven.com), founder of [Itmeo](https://itmeo.com) and creator of [DesignMD Directory](https://designmd.directory).
 
-## Core Resources
+## Featured Examples
 
-- [DesignMD Directory](https://designmd.directory) - curated directory of real-world DESIGN.md files, templates, and guides for AI coding agents.
-- [DESIGN.md examples](https://designmd.directory/examples) - browse example patterns and references for writing better DESIGN.md files.
-- [DESIGN.md template guide](https://designmd.directory/learn/design-md-template) - practical guide to the sections a useful DESIGN.md should include.
+- [Google DESIGN.md spec](https://designmd.directory/p/google-designmd-spec) - reference for the DESIGN.md format and how agents should read it.
+- [Google Stitch workflow](https://designmd.directory/p/google-stitch) - DESIGN.md context for Google Stitch-style UI generation.
+- [Cursor workflow reference](https://designmd.directory/p/cursor-workflow-reference) - practical DESIGN.md reference for Cursor projects.
+- [Claude Code workflow reference](https://designmd.directory/p/claude-code-workflow-reference) - practical DESIGN.md reference for Claude Code.
+- [Codex workflow reference](https://designmd.directory/p/codex-workflow-reference) - practical DESIGN.md reference for Codex-style agents.
+- [Minimal SaaS dashboard DESIGN.md](https://designmd.directory/p/minimal-saas-dashboard-designmd) - compact dashboard-oriented DESIGN.md example.
+- [AI app starter DESIGN.md](https://designmd.directory/p/ai-app-starter-designmd) - starter visual system for AI product interfaces.
+- [Landing page DESIGN.md](https://designmd.directory/p/landing-page-designmd) - DESIGN.md example for marketing pages.
+- [Admin panel DESIGN.md](https://designmd.directory/p/admin-panel-designmd) - admin and dashboard interface reference.
+- [Analytics dashboard DESIGN.md](https://designmd.directory/p/analytics-dashboard-designmd) - data-heavy product UI reference.
 
 ## Templates
 
-- [Tailwind DESIGN.md templates](https://designmd.directory/templates/tailwind) - DESIGN.md templates for Tailwind-based projects.
-- [shadcn/ui DESIGN.md templates](https://designmd.directory/templates/shadcn) - DESIGN.md templates for shadcn/ui projects.
+- [Tailwind design memory reference](https://designmd.directory/p/tailwind-design-memory-reference) - Tailwind-focused DESIGN.md reference.
+- [shadcn/ui reference](https://designmd.directory/p/shadcnui-reference) - component-system reference for shadcn/ui projects.
+- [Tailwind DESIGN.md template](https://designmd.directory/p/tailwind-designmd-template) - reusable template for Tailwind projects.
+- [shadcn/ui DESIGN.md starter](https://designmd.directory/p/shadcnui-designmd-starter) - starter DESIGN.md for shadcn/ui projects.
+- [All Tailwind templates](https://designmd.directory/templates/tailwind) - browse Tailwind-oriented templates.
+- [All shadcn/ui templates](https://designmd.directory/templates/shadcn) - browse shadcn/ui-oriented templates.
 
 ## Tool Guides
 
@@ -25,6 +36,8 @@ Maintained by [Dima Braven](https://dimabraven.com), founder of [Itmeo](https://
 
 ## Learn More
 
+- [DesignMD Directory](https://designmd.directory) - full catalog of DESIGN.md examples, templates, and guides.
+- [Browse all examples](https://designmd.directory/examples)
 - [What is DESIGN.md?](https://designmd.directory/learn/what-is-design-md)
 - [DESIGN.md examples](https://designmd.directory/learn/design-md-examples)
 - [DESIGN.md vs design tokens](https://designmd.directory/learn/design-md-vs-design-tokens)
