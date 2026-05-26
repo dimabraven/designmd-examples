@@ -6,20 +6,27 @@ DESIGN.md is a plain-text design system file that helps tools like Cursor, Claud
 
 Maintained by [Dima Braven](https://dimabraven.com), founder of [Itmeo](https://itmeo.com) and creator of [DesignMD Directory](https://designmd.directory).
 
-## Browse Examples
+## Core Resources
 
 - [DesignMD Directory](https://designmd.directory) - curated directory of real-world DESIGN.md files, templates, and guides for AI coding agents.
-- [DESIGN.md for Cursor](https://designmd.directory/for/cursor) - examples and guidance for using DESIGN.md with Cursor.
-- [DESIGN.md for Claude Code](https://designmd.directory/for/claude-code) - examples and guidance for using DESIGN.md with Claude Code.
-- [DESIGN.md for Codex](https://designmd.directory/for/codex) - examples and guidance for using DESIGN.md with Codex.
+- [DESIGN.md examples](https://designmd.directory/examples) - browse example patterns and references for writing better DESIGN.md files.
+- [DESIGN.md template guide](https://designmd.directory/learn/design-md-template) - practical guide to the sections a useful DESIGN.md should include.
+
+## Templates
+
 - [Tailwind DESIGN.md templates](https://designmd.directory/templates/tailwind) - DESIGN.md templates for Tailwind-based projects.
 - [shadcn/ui DESIGN.md templates](https://designmd.directory/templates/shadcn) - DESIGN.md templates for shadcn/ui projects.
 
-## Learn
+## Tool Guides
+
+- [DESIGN.md for Cursor](https://designmd.directory/learn/design-md-for-cursor) - how to use DESIGN.md as persistent design context in Cursor.
+- [DESIGN.md for Claude Code](https://designmd.directory/learn/design-md-for-claude-code) - how to use DESIGN.md with Claude Code for frontend work.
+- [DESIGN.md for Codex](https://designmd.directory/learn/design-md-for-codex) - how to use DESIGN.md with Codex-style coding agents.
+
+## Learn More
 
 - [What is DESIGN.md?](https://designmd.directory/learn/what-is-design-md)
 - [DESIGN.md examples](https://designmd.directory/learn/design-md-examples)
-- [DESIGN.md template guide](https://designmd.directory/learn/design-md-template)
 - [DESIGN.md vs design tokens](https://designmd.directory/learn/design-md-vs-design-tokens)
 - [DESIGN.md vs Claude.md](https://designmd.directory/learn/design-md-vs-claude-md)
 - [Why AI agents make generic UI](https://designmd.directory/learn/why-ai-agents-make-ugly-ui)
