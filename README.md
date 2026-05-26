@@ -4,6 +4,8 @@ A curated collection of DESIGN.md examples, templates, and resources for AI codi
 
 DESIGN.md is a plain-text design system file that helps tools like Cursor, Claude Code, Codex, Windsurf, and other AI coding agents generate UI with consistent visual direction instead of generic defaults.
 
+Maintained by [Dima Braven](https://dimabraven.com), founder of [Itmeo](https://itmeo.com) and creator of [DesignMD Directory](https://designmd.directory).
+
 ## Browse Examples
 
 - [DesignMD Directory](https://designmd.directory) - curated directory of real-world DESIGN.md files, templates, and guides for AI coding agents.
